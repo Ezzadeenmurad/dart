@@ -29,7 +29,7 @@ class Car {
   String name = "";
   int n = 0;
   car() {
-    print("xxx");
+    print("ezzadeenmurad");
   }
 
   study() {
